@@ -1,0 +1,1 @@
+error: Cannot delete branch 'rama_fede' checked out at 'C:/desarrollo/_pruebaGit'
